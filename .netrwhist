@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='H:\vimfiles\bundle\nerdtree'
+let g:netrw_dirhist_2='H:/vimfiles/bundle'
+let g:netrw_dirhist_3='H:/vimfiles'
+let g:netrw_dirhist_4='H:/vimfiles/plugin'
+let g:netrw_dirhist_5='H:/vimfiles'
+let g:netrw_dirhist_6='H:/vimfiles/bundle'
+let g:netrw_dirhist_7='H:/vimfiles/bundle/nerdtree'
+let g:netrw_dirhist_8='H:/vimfiles/bundle/nerdtree/nerdtree_plugin'
+let g:netrw_dirhist_9='H:/vimfiles/bundle/nerdtree'
